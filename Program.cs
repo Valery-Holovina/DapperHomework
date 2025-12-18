@@ -17,7 +17,7 @@ namespace StudentAppPostgres
     class Program
     {
        
-        private static string connectionString = "Host=localhost;Port=5432;Username=postgres;Password=135509valeriiaHA13;Database=StudentDB";
+        private static string connectionString = "Host=localhost;Port=5432;Username=postgres;Password=;Database=StudentDB";
 
         static void Main(string[] args)
         {
